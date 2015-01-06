@@ -102,7 +102,7 @@ Add to composer.json:
 ```json
 {
     "require": {
-        "snapshotpl/LastFmClient": "dev-master"
+        "snapshotpl/last-fm-client": "dev-master"
     }
 }
 ```
