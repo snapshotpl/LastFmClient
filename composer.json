@@ -1,0 +1,11 @@
+{
+    "name": "snapshotpl/LastFmClient",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LastFmClient\\": "src/"
+        }
+    }
+}
